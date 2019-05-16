@@ -1,0 +1,15 @@
+.box {
+  width: 300px;
+  height: 400px;
+  background-color: aquamarine;
+  p {
+      font-size: 8px;
+      margin: 10px;
+      a {
+          text-decoration: none;
+          &:hover {
+              font-weight: bold;
+          }
+      }
+  }
+}
