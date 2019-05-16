@@ -1,0 +1,16 @@
+logs
+*.log
+
+node_modules/
+.npm
+.yarn-integrity
+
+### Sass ###
+.sass-chche/
+*.css.map
+*.sass.map
+*.scss.map
+
+### VisualStudioCode ###
+.vscode/*
+
